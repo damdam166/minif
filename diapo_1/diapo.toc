@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Equipe}{3}{0}{1}
+\beamer@sectionintoc {2}{Présentation du projet}{6}{0}{2}
+\beamer@sectionintoc {3}{Devis provisoire}{10}{0}{3}
