@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.12)  13 OCT 2023 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.12)  15 OCT 2023 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -900,7 +900,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./diapo.nav)
-<pics/eirspace.png, id=25, 128.48pt x 128.48pt>
+<pics/eirspace.png, id=21, 128.48pt x 128.48pt>
 File: pics/eirspace.png Graphic file (type png)
 <use pics/eirspace.png>
 Package pdftex.def Info: pics/eirspace.png  used on input line 35.
@@ -943,28 +943,28 @@ thkerncmss.
 ] [8
 
 ]
-<pics/5855222429968874941_121.jpg, id=243, 759.83875pt x 1040.88875pt>
+<pics/5855222429968874941_121.jpg, id=240, 759.83875pt x 1040.88875pt>
 File: pics/5855222429968874941_121.jpg Graphic file (type jpg)
 <use pics/5855222429968874941_121.jpg>
 Package pdftex.def Info: pics/5855222429968874941_121.jpg  used on input line 1
-50.
+51.
 (pdftex.def)             Requested size: 184.3758pt x 252.5661pt.
  [9
 
  <./pics/5855222429968874941_121.jpg>]
-<pics/croquis_2.png, id=269, 3131.7pt x 4175.6pt>
+<pics/croquis_2.png, id=266, 3131.7pt x 4175.6pt>
 File: pics/croquis_2.png Graphic file (type png)
 <use pics/croquis_2.png>
-Package pdftex.def Info: pics/croquis_2.png  used on input line 159.
+Package pdftex.def Info: pics/croquis_2.png  used on input line 160.
 (pdftex.def)             Requested size: 215.10196pt x 286.77872pt.
  [10
 
  <./pics/croquis_2.png>]
-<pics/Minif_RC_Perspective_V4_light_web.jpg, id=294, 341.5962pt x 482.7636pt>
+<pics/Minif_RC_Perspective_V4_light_web.jpg, id=291, 341.5962pt x 482.7636pt>
 File: pics/Minif_RC_Perspective_V4_light_web.jpg Graphic file (type jpg)
 <use pics/Minif_RC_Perspective_V4_light_web.jpg>
 Package pdftex.def Info: pics/Minif_RC_Perspective_V4_light_web.jpg  used on in
-put line 168.
+put line 169.
 (pdftex.def)             Requested size: 153.64493pt x 217.13847pt.
  [11
 
@@ -979,7 +979,7 @@ put line 168.
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-285.
+286.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [16
@@ -998,30 +998,37 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 \openout8 = `diapo.snm'.
 
  (./diapo.aux)
-Package rerunfilecheck Info: File `diapo.out' has not changed.
-(rerunfilecheck)             Checksum: 2690E5384B9A63F80EA69F87659ED826;361.
+
+Package rerunfilecheck Warning: File `diapo.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `diapo.out':
+(rerunfilecheck)             Before: BD3EB01DE23E73595F1E19E63F32F75E;235
+(rerunfilecheck)             After:  2690E5384B9A63F80EA69F87659ED826;361.
  ) 
 Here is how much of TeX's memory you used:
- 24027 strings out of 480218
- 480252 string characters out of 5894881
- 728934 words of memory out of 5000000
- 41456 multiletter control sequences out of 15000+600000
+ 24026 strings out of 480218
+ 480240 string characters out of 5894881
+ 728941 words of memory out of 5000000
+ 41455 multiletter control sequences out of 15000+600000
  479956 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  128i,14n,122p,385b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/dam/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss0600.600pk
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/symbols/msam7.pfb>
-Output written on diapo.pdf (17 pages, 3339121 bytes).
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/symbols/msam7.pfb>
+Output written on diapo.pdf (17 pages, 3347231 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
+ 527 PDF objects out of 1000 (max. 8388607)
  473 compressed objects within 5 object streams
  38 named destinations out of 1000 (max. 500000)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
