@@ -1,0 +1,20 @@
+*parachute : 
+
+fil parachute doit faire au moins 1.5 fois la longueur de la fusée
+
+antitorche en bois
+
+pliage sapin
+
+
+
+*carte arduino : 
+
+Nano 33 ple cents
+
+
+*allumer séquenceur avec une prise jack
+
+
+
+*un certain type d'interrupteur obligatoire, mais lequel ?
