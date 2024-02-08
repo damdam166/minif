@@ -1,0 +1,27 @@
+# Achat du matériel sur internet
+
+Parachute : 
+	- ficelle pour parachute, doublée et 1mètres mini
+	- du nilon, parachute en nilon
+	
+Séquenceur :
+	- 2 piles 9V
+	- beaucoup de vis
+	- fils de connexion
+	- commander une carte
+	- prise Jack
+
+# Achat du matériel à LeroyMerlin
+
+chassis : 
+	- 2 tubes en pvc de au moins 1m50
+	- peinture à la bombe
+	- 5 tiges en métal, largeur : entre 1 et 2 cm; hauteur : au moins 1m50; profondeur : moins de 5mm.
+	- boulons potentiels pour la fixation des camemberts / colle
+
+# Pour l'impression 3D
+	- 3 camemberts :
+		- 1 camembert plein
+		- 2 camemberts creux
+
+	dimensions : 7cm de diamètre, 2 cm d'épaisseur, 1.5 cm de diamètre pour le creux, 4 trous pour les tiges, diamètre à déterminer.
